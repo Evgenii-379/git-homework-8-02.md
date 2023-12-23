@@ -21,11 +21,11 @@ pipeline {
  agent any
  stages {
   stage('Git') {
-   steps {git 'https://github.com/netology-code/sdvps-materials.git'}
+   steps {git 'https://github.com/Evgenii-379/git-homework-8-02.md.git'}
   }
   stage('Test') {
    steps {
-    sh 'go test .'
+    sh '/usr/local/go/bin/go test .'
    }
   }
   stage('Build') {
