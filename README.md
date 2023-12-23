@@ -9,4 +9,13 @@
 
 ## **Задание 1**
 
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-21%20184717.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-21%20184729.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-21%20185838.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-21%20185851.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-21%20185907.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-21%20185921.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-21%20190012.png)
+
+
 
