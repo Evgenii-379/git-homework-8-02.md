@@ -1,15 +1,18 @@
-pipeline {
-  agent any
-  stages {
-    stage('Test') {
-      steps {
-        sh 'go test .'
-     }
+package main
+
+import (
+    "fmt"
+    "log"
+    "os"
+)
+
+func hello(name string) string {
+    return fmt.Sprintf("Hello %s!", name)
+}
+
+func main() {
+    if len(os.Args) < 2 {
+        log.Fatalln("Missing name: hello <name>")
     }
-    stage('Build') {
-      steps {
-        sh 'docker build . -t ubuntu-bionic:8082/hello-world:v$BUILD_NUMBER'
-      }
-    }
-  }
+    fmt.Println(hello(os.Args[1]))
 }
