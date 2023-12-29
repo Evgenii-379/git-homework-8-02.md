@@ -19,20 +19,20 @@
 
 ## **Задание 2**
 
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-26%20203732.png
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-26%20203755.png
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-26%20203855.png
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-26%20203710.png
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-26%20203732.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-26%20203755.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-26%20203855.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-26%20203710.png)
 
 
 ## **Задание 3**
 
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20162236.png
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20162321.png
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20163420.png
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20162354.png
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20164532.png
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20164605.png
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20162236.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20162321.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20163420.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20162354.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20164532.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20164605.png)
 
 
 
