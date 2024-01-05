@@ -27,12 +27,16 @@
 
 ## **Задание 3**
 
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20162236.png)
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20162321.png)
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20163420.png)
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20162354.png)
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20164532.png)
-- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20164605.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202024-01-05%20151517.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202024-01-05%20151611.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202024-01-05%20151639.png)
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202024-01-05%20152105.png)
+
+
+
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/
+- ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/ 
+
 
 
 
