@@ -34,7 +34,6 @@
 - ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20164532.png)
 - ![scrinshot](https://github.com/Evgenii-379/git-homework-8-02.md/blob/main/Снимок%20экрана%202023-12-29%20164605.png)
 
-## **Задание 4**
 
 
 
